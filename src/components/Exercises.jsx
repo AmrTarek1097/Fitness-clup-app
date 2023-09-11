@@ -30,7 +30,7 @@ useEffect(() => {
     setExercises(exercisesData);
   }
   fetchExercisesData()
-}, [bodyPart, setExercises])
+}, [bodyPart])
 
   return (
     <Box id='exercises'

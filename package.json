@@ -1,6 +1,5 @@
 {
-  "homepage": "https://AmrTarek1097.github.io/Fitness-clup-app",
-  "name": "gym-exercise-app",
+  "name": "Fitness-clup-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
