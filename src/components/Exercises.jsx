@@ -30,6 +30,7 @@ useEffect(() => {
     setExercises(exercisesData);
   }
   fetchExercisesData()
+// eslint-disable-next-line react-hooks/exhaustive-deps
 }, [bodyPart])
 
   return (
